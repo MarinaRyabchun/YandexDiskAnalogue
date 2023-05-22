@@ -1,0 +1,30 @@
+PODS:
+  - Charts (4.1.0):
+    - Charts/Core (= 4.1.0)
+  - Charts/Core (4.1.0):
+    - SwiftAlgorithms (~> 1.0)
+  - SnapKit (5.0.1)
+  - SwiftAlgorithms (1.0.0)
+  - SwiftLint (0.50.1)
+
+DEPENDENCIES:
+  - Charts
+  - SnapKit (~> 5.0.1)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Charts
+    - SnapKit
+    - SwiftAlgorithms
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Charts: 354f86803d11d9c35de280587fef50d1af063978
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  SwiftLint: 6b0cf1f4d619808dbc16e4fab064ce6fc79f090b
+
+PODFILE CHECKSUM: 97be2a63f2470f4be80a6d9bc9845d627242f207
+
+COCOAPODS: 1.11.3

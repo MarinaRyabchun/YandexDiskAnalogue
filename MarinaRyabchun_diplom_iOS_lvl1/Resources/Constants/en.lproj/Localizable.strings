@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  MarinaRyabchun_diplom_iOS_lvl1
+
+  Created by Марина Рябчун on 07.01.2023.
+  
+*/
+// Login
+"LoginScene.Button.Login" = "Login";
+// Onbording
+"Onboarding.Button.Next" = "Next";
+"Onboarding.Page1.Label" = "Now all your documents are in one place";
+"Onboarding.Page2.Label" = "Access files without internet";
+"Onboarding.Page3.Label" = "Share your files with others";
+// TabBar.Profile
+"TabBar.Profile.NavigationItem.Title" = "Profile";
+"TabBar.Profile.Label.Busy" = "busy";
+"TabBar.Profile.Label.Free" = "free";
+"TabBar.Profile.Allert1.Title" = "Profile";
+"TabBar.Profile.Allert1.Button1" = "Log out";
+"TabBar.Profile.Allert1.Button2" = "Cancel";
+"TabBar.Profile.Allert2.Title" = "Log out";
+"TabBar.Profile.Allert2.Subtitle" = "Are you sure you want to log out?";
+"TabBar.Profile.Allert2.Button.Ok" = "Yes";
+"TabBar.Profile.Allert2.Button.No" = "No";
+"TabBar.Profile.Button.PublishedFiles" = "Published files";
+"TabBar.Profile.Label.Bt" = "b";
+"TabBar.Profile.Label.Kb" = "kb";
+"TabBar.Profile.Label.Mb" = "mb";
+"TabBar.Profile.Label.Gb" = "gb";
+// PublishedFiles
+"PublishedFiles.NavigationItem.Title" = "Published Files";
+"PublishedFiles.Label" = "You don't have any published files yet";
+"PublishedFiles.Button" = "Update";
+"PublishedFiles.Allert.Title" = "Delete a post";
+"PublishedFiles.Allert.Cancel" = "Cancel";
+// TabBar.LastFiles
+"TabBar.LastFiles.NavigationItem.Title" = "File";
+// TabBar.PreviewFile
+"Preview.Button.Alert.ShareImageTitle" = "To share";
+"Preview.Button.Alert.ButtonTextFile" = "File";
+"Preview.Button.Alert.ButtonTextLink" = "By reference";
+"Preview.Button.Alert.ButtonTextCancel" = "Cancel";
+"Preview.Button2.Alert.DeleteImageTitle" = "This file will be deleted";
+"Preview.Button2.Alert.ButtonTextDelete" = "Delete a file";
+"Preview.Button2.Alert.ButtonTextCancel" = "Cancel";
+"Preview.Label.TextLabel" = "This file cannot be opened";
+"Preview.Edit.Title" = "Rename";
+"Preview.Edit.Button" = "Done";
+"Preview.Edit.TextField.Placeholder" = "Enter a name";
+// TabBar.AllFiles
+"TabBar.AllFiles.NavigationItem.Title" = "All files";
+"TabBar.AllFiles.Dir.isEmpty" = "The directory does not contain files";
+// Error.Allert
+"Error.Allert.Title" = "Error";
+"Error.Allert.Subtitle" = "No internet connection";
+"Error.Allert.Button" = "Cancel";

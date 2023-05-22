@@ -1,0 +1,57 @@
+/* 
+  Localizable.strings
+  MarinaRyabchun_diplom_iOS_lvl1
+
+  Created by Марина Рябчун on 07.01.2023.
+  
+*/
+// Login
+"LoginScene.Button.Login" = "Войти";
+// Onbording
+"Onboarding.Button.Next" = "Далее";
+"Onboarding.Page1.Label" = "Теперь все ваши документы в одном месте";
+"Onboarding.Page2.Label" = "Доступ к файлам без интернета";
+"Onboarding.Page3.Label" = "Делитесь вашими файлами с другими";
+// TabBar.Profile
+"TabBar.Profile.NavigationItem.Title" = "Профиль";
+"TabBar.Profile.Label.Busy" = "занято";
+"TabBar.Profile.Label.Free" = "свободно";
+"TabBar.Profile.Button.PublishedFiles" = "Опубликованные файлы";
+"TabBar.Profile.Allert1.Title" = "Профиль";
+"TabBar.Profile.Allert1.Button1" = "Выход";
+"TabBar.Profile.Allert1.Button2" = "Отмена";
+"TabBar.Profile.Allert2.Title" = "Выход";
+"TabBar.Profile.Allert2.Subtitle" = "Вы уверены, что хотите выйти?";
+"TabBar.Profile.Allert2.Button.Ok" = "Да";
+"TabBar.Profile.Allert2.Button.No" = "Нет";
+"TabBar.Profile.Label.Bt" = "б";
+"TabBar.Profile.Label.Kb" = "кб";
+"TabBar.Profile.Label.Mb" = "мб";
+"TabBar.Profile.Label.Gb" = "гб";
+// PublishedFiles
+"PublishedFiles.NavigationItem.Title" = "Опубликованные файлы";
+"PublishedFiles.Label" = "У вас пока нет опубликованных файлов";
+"PublishedFiles.Button" = "Обновить";
+"PublishedFiles.Allert.Title" = "Удалить публикацию";
+"PublishedFiles.Allert.Cancel" = "Отмена";
+// TabBar.LastFiles
+"TabBar.LastFiles.NavigationItem.Title" = "Последние";
+// TabBar.PreviewFile
+"Preview.Button.Alert.ShareImageTitle" = "Поделиться";
+"Preview.Button.Alert.ButtonTextFile" = "Файлом";
+"Preview.Button.Alert.ButtonTextLink" = "Ссылкой";
+"Preview.Button.Alert.ButtonTextCancel" = "Отмена";
+"Preview.Button2.Alert.DeleteImageTitle" = "Данный файл будет удален";
+"Preview.Button2.Alert.ButtonTextDelete" = "Удалить файл";
+"Preview.Button2.Alert.ButtonTextCancel" = "Отмена";
+"Preview.Label.TextLabel" = "Данный файл невозможно открыть";
+"Preview.Edit.Title" = "Переименовать";
+"Preview.Edit.Button" = "Готово";
+"Preview.Edit.TextField.Placeholder" = "Введите название";
+// TabBar.AllFiles
+"TabBar.AllFiles.NavigationItem.Title" = "Все файлы";
+"TabBar.AllFiles.Dir.isEmpty" = "Директория не содержит файлов";
+// Error.Allert
+"Error.Allert.Title" = "Ошибка";
+"Error.Allert.Subtitle" = "Отсутствует подключение к интернету";
+"Error.Allert.Button" = "OK";

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2F96F2B3-5A7E-4A17-8CDB-F46D876E2BC1"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB8C7EF4-A6AA-4754-A99D-705587845B37"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/StartScene/StartSceneViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "StartSceneViewModel"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBACDE79-3DED-4F0F-8026-3A35EDC6FB50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/StartScene/StartSceneModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "StartSceneModel"
+            landmarkType = "21">
+            <Locations>
+               <Location
+                  uuid = "EBACDE79-3DED-4F0F-8026-3A35EDC6FB50 - e54d85ffa7682330"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "one-time initialization function for content"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/StartScene/StartSceneModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "EBACDE79-3DED-4F0F-8026-3A35EDC6FB50 - 1a92bb3d1a7fe16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarinaRyabchun_diplom_iOS_lvl1.StartSceneModel.content.unsafeMutableAddressor : MarinaRyabchun_diplom_iOS_lvl1.StartSceneModel"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/StartScene/StartSceneModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3525F3D6-10E0-471C-9C9B-8E2C60D07393"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "PageViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "3525F3D6-10E0-471C-9C9B-8E2C60D07393 - 47e189bf7d1dca0e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarinaRyabchun_diplom_iOS_lvl1.PageViewController.pages.getter : Swift.Array&lt;MarinaRyabchun_diplom_iOS_lvl1.PageModel&gt;"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "3525F3D6-10E0-471C-9C9B-8E2C60D07393 - 47dd125278ac221a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarinaRyabchun_diplom_iOS_lvl1.PageViewController.pages.setter : Swift.Array&lt;MarinaRyabchun_diplom_iOS_lvl1.PageModel&gt;"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "3525F3D6-10E0-471C-9C9B-8E2C60D07393 - f35e6e1c600d4c0b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarinaRyabchun_diplom_iOS_lvl1.PageViewController.pages.modify : Swift.Array&lt;MarinaRyabchun_diplom_iOS_lvl1.PageModel&gt;"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "3525F3D6-10E0-471C-9C9B-8E2C60D07393 - eb3e4f4a22e8076c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarinaRyabchun_diplom_iOS_lvl1.PageViewController.pages.modify : Swift.Array&lt;MarinaRyabchun_diplom_iOS_lvl1.PageModel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "3525F3D6-10E0-471C-9C9B-8E2C60D07393 - 886c7270e888c462"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarinaRyabchun_diplom_iOS_lvl1.PageViewController.init(transitionStyle: __C.UIPageViewControllerTransitionStyle, navigationOrientation: __C.UIPageViewControllerNavigationOrientation, options: Swift.Optional&lt;Swift.Dictionary&lt;__C.UIPageViewControllerOptionsKey, Any&gt;&gt;) -&gt; MarinaRyabchun_diplom_iOS_lvl1.PageViewController"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "3525F3D6-10E0-471C-9C9B-8E2C60D07393 - 5559e9802254dee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarinaRyabchun_diplom_iOS_lvl1.PageViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MarinaRyabchun_diplom_iOS_lvl1.PageViewController&gt;"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A94033C-2DB3-4B1E-9168-5E9C824E4A29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "PageViewController"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA2B6704-BA41-46F1-B899-910946B4CAA1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C518B97F-1C4A-4B08-88F1-47F881FC2FDB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/PageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7548760C-F622-4569-BD34-18DC98C2A2AE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48DD879A-788C-4104-968A-DFC6098A2086"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "setupSubViews()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2CB3CB2E-F66D-4FF9-B826-CDFDC5EC173A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2CB3CB2E-F66D-4FF9-B826-CDFDC5EC173A - fca40c51993f1892"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MarinaRyabchun_diplom_iOS_lvl1.DemoViewController.setupConstraints() -&gt; ()"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/File.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "2CB3CB2E-F66D-4FF9-B826-CDFDC5EC173A - 143dbfc563d630f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SnapKit.ConstraintMaker) -&gt; () in MarinaRyabchun_diplom_iOS_lvl1.DemoViewController.setupConstraints() -&gt; ()"
+                  moduleName = "MarinaRyabchun_diplom_iOS_lvl1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/marinaryabchun/Desktop/diplom_iOS_lvl1/ydisk_skillbox/MarinaRyabchun_diplom_iOS_lvl1/MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/File.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "96">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A28CB87-10A6-4121-8347-633251431C75"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/OnboardingPages/File.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "setupConstraints()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74EF71A1-6330-4E02-B0A7-9E4E5B8888ED"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/Routes/LoginRoute.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "openLogin()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D42C6B6-A4B9-47AB-B63F-2853F303BAE0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/Onboarding/PageViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "nextTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BC58EE63-7747-4C1B-BB0E-E0B8DA27B3DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MarinaRyabchun_diplom_iOS_lvl1/TabBar/Preview/PreviewFile/PresentViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "imageView"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
