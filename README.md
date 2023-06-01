@@ -1,3 +1,6 @@
+<p align="center">
+<img src="https://github.com/MarinaRyabchun/YandexDiskAnalogue/blob/main/logo.jpg" height="100"/></h1>
+    
 # YandexDiskAnalogue
 Мобильное приложения для доступа к файлам пользователя на Яндекс Диске с измененным дизайном
 
@@ -8,6 +11,9 @@
 * Позволяет просматривать имеющиеся на диске файлы и директории
 * Позволяет скачивать имеющиеся файлы
 * Язык программирования — Swift
+
+<p align="center">
+<img src="https://github.com/MarinaRyabchun/YandexDiskAnalogue/blob/main/project3..gif" height="600"/></h1>
 
 ## Функционал:
 
